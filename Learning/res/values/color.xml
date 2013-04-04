@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="blue_base">#0393D2</color>
+	<color name="blue_stroke">#CCC</color>
+	<color name="blue_gradiantS">#FFF</color>
+	<color name="blue_gradiantE">#CCC</color> 
+	<color name="menu_button_text_color">#000</color>
+	<color name="menu_button_shadow_color">#000000</color>    
+</resources>

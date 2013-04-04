@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Soluciones Matematicas</string>
+    <string name="action_settings">Settings</string>    
+	<string name="first_num">Introduzca una ecuacion exacta</string>	
+	<string name="calculate">Calcular</string>
+	<string name="derivate">Derivar</string>
+	<string name="integrate">Integrar</string>
+	<string name="exact_quotation">Ecuaciones exactas</string>
+	<string name="about_author">Sobre Autor</string>
+</resources>
